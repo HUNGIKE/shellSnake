@@ -4,7 +4,7 @@
 H=8;W=10;
 
 input(){
-	read -t 0.3 -n 1 -s td;
+	read -t 1 -n 1 -s td;
 }
 
 
